@@ -1,4 +1,4 @@
-# tinlake-pool-metadata
+# tinlake-pools-kovan
 This repo stores pool metadata of active Tinlake pools on Kovan.
 
 ## Data Structure
