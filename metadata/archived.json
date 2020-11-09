@@ -1,0 +1,29 @@
+[
+  {
+    "network": "kovan",
+    "version": 3,
+    "metadata": {
+      "name": "Archived Kovan Pool 1",
+      "slug": "archived-kovan-pool-1",
+      "shortName": "Upcoming Kovan 1",
+      "description": "This pool is already archived.",
+      "logo": "https://storage.googleapis.com/tinlake/tinlake.png",
+      "website": "https://tinlake.centrifuge.io/",
+      "email": "tinlake@centrifuge.io",
+      "details": {
+        "Asset Originator": "Archived Kovan Pool",
+        "Collateral": "Invoice",
+        "Average Loan Size": "$1,000",
+        "Maturity Date": "30 days"
+      },
+      "discourseLink": "https://discourse.centrifuge.io/",
+      "asset": "Invoice"
+    },
+    "archivedValues": {
+      "totalFinancedCurrency": "2000000000000000000000",
+      "financingsCount": "18",
+      "seniorInterestRate": "1000000003170979198376458650",
+      "averageFinancingFee": "1500000003170979198376458650"
+    }
+  }
+]
