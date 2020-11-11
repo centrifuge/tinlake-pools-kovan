@@ -1,6 +1,6 @@
 {
   "name": "@centrifuge/tinlake-pools-kovan",
-  "version": "0.0.1-develop.3",
+  "version": "0.0.1-develop.4",
   "description": "Metadata for Tinlake pools (Kovan)",
   "main": "out/index.js",
   "scripts": {
