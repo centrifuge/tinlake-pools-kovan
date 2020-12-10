@@ -32,7 +32,9 @@
     "name": "Kovan Revolving Pool 1",
     "slug": "kovan-revolving-pool-1",
     "description": "This section displays information provided by the Asset Originator, such as a description of the business model.",
-    "logo": "https://storage.googleapis.com/tinlake/tinlake.png",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/tinlake.png"
+    },
     "website": "https://tinlake.centrifuge.io/",
     "email": "tinlake@centrifuge.io",
     "details": {
