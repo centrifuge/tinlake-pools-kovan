@@ -1,0 +1,50 @@
+{
+  "network": "kovan",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x1f4155D64D75555B9B36E4514C0FCC11313d5A54",
+    "TINLAKE_CURRENCY": "0x99E21e1e7D99d06F780666A3BE6Ba178De04B0a9",
+    "TITLE": "0x0FE7d783f097C8D8927Fe96AeF34d9C4E351228F",
+    "PILE": "0xC0874643158e0cB20a2D6EC15C8D71420EA5ca30",
+    "SHELF": "0xD11A9C2Cb548C16eee75FcD9CDf876f0990Edc0F",
+    "COLLECTOR": "0xBE62583985038C9276791A218305761cd5347202",
+    "FEED": "0x54f89B9a1F0A9D02979dF99Fa2b30bF0CAd0F0Ce",
+    "JUNIOR_OPERATOR": "0xB770CF728d06385c68C241013C4Efbe1AAcdEfCD",
+    "SENIOR_OPERATOR": "0x261A92819Bc94040a50ca302055970a97a79b760",
+    "JUNIOR_TRANCHE": "0x7275e7876AcD07bAF56B34cF2B10c1e63d345171",
+    "SENIOR_TRANCHE": "0xDC7eC31286364aBeC4C8cBBdE9C95a3ED11D9bd9",
+    "JUNIOR_TOKEN": "0x4CDAfBF29838BfD1f148373B8b4B0CBD4B22550d",
+    "SENIOR_TOKEN": "0xe8fcCBf789736717b7a8d10a536147cD823e166E",
+    "JUNIOR_MEMBERLIST": "0x9F968956EE4fe00A4a227925e60F9b3F84cC86EA",
+    "SENIOR_MEMBERLIST": "0xB11134c54E90429Bb6F590A560bE7F13e242f1eB",
+    "ASSESSOR": "0x1E5bc41316B2f696C201dE2Df1059D8d9d98EB71",
+    "ASSESSOR_ADMIN": "0x2DE20B2eE542c1213f739239D88aAbA9f21c2E68",
+    "COORDINATOR": "0x8D541DddEC27011f431597FCDB761216B430fb0B",
+    "RESERVE": "0xEfEb675f81e5A2fCA4A11228f0F67f6e21c3fDa7",
+    "ACTIONS": "0x60cc4a2868559e513112f0742e6f546d339ea17b",
+    "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c"
+  },
+  "contractConfig": {
+    "partialRepay": true
+  },
+  "metadata": {
+    "name": "Kovan Revolving Pool 2",
+    "slug": "kovan-revolving-pool-2",
+    "description": "This section displays information provided by the Asset Originator, such as a description of the business model.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/tinlake.png"
+    },
+    "website": "https://tinlake.centrifuge.io/",
+    "email": "tinlake@centrifuge.io",
+    "details": {
+      "Asset Originator": "Kovan Revolving Pool 2 LLC",
+      "Collateral": "Simplified invoices",
+      "Average Invoice Size": "$1,000",
+      "Maturity Date": "30 day invoices",
+      "Issuer": "Kovan Revolving Pool 2 LLC"
+    },
+    "discourseLink": "https://discourse.centrifuge.io/",
+    "asset": "Invoice",
+    "securitizeId": "kickfurther"
+  }
+}
