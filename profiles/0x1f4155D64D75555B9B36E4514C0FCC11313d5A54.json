@@ -1,0 +1,22 @@
+{
+  "agreements": [
+    {
+      "name": "DROP Subscription Agreement (US)",
+      "provider": "docusign",
+      "providerTemplateId": "4f6d7d39-e52c-4144-8637-9cd094bf48aa",
+      "tranche": "senior",
+      "country": "us"
+    },
+    {
+      "name": "DROP Subscription Agreement (non-US)",
+      "provider": "docusign",
+      "providerTemplateId": "4f6d7d39-e52c-4144-8637-9cd094bf48aa",
+      "tranche": "senior",
+      "country": "non-us"
+    }
+  ],
+  "issuer": {
+    "name": "Kovan",
+    "email": "jeroen+kovanissuer@centrifuge.io"
+  }
+}
