@@ -34,15 +34,11 @@
     },
     "website": "https://tinlake.centrifuge.io/",
     "email": "tinlake@centrifuge.io",
-    "details": {
-      "Asset Originator": "Kovan Revolving Pool 2 LLC",
-      "Collateral": "Simplified invoices",
-      "Average Invoice Size": "$1,000",
-      "Maturity Date": "30 day invoices",
-      "Issuer": "Kovan Revolving Pool 2 LLC"
-    },
-    "discourseLink": "https://discourse.centrifuge.io/",
     "asset": "Invoice",
-    "securitizeId": "kickfurther"
+    "assetMaturity": "30 days",
+    "attributes": {
+      "Issuer": "Kovan LLC (Series 1)"
+    },
+    "currencySymbol": "KDAI"
   }
 }

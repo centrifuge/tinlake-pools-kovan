@@ -37,13 +37,11 @@
       "icon": "https://storage.googleapis.com/tinlake/pool-media/new-silver-2/icon.svg"
     },
     "website": "https://www.newsilver.com/",
-    "details": {
-      "Asset Originator": "New Silver Lending LLC",
-      "Collateral": "Real estate bridge loans",
-      "Average Loan Size": "$190,000",
-      "Maturity Date": "12 to 24 months",
+    "asset": "Real Estate Bridge Loans",
+    "assetMaturity": "12 to 24 months",
+    "attributes": {
       "Issuer": "NS Pool LLC"
     },
-    "asset": "Real Estate Bridge Loans"
+    "currencySymbol": "DAI"
   }
 }
