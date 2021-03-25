@@ -1,0 +1,50 @@
+{
+  "network": "kovan",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x004Ac13a10C64c2f9C69cf0f09f111eCB557E400",
+    "TINLAKE_CURRENCY": "0x99E21e1e7D99d06F780666A3BE6Ba178De04B0a9",
+    "TITLE": "0x888839d7Ec59a78AD93e4DA4bA21AfBdF1a47928",
+    "PILE": "0x6A30b9b1B9aacf7578683240A14294476197ff54",
+    "SHELF": "0x3AEE7FE2EA096B15fBB12A193793D4C9045DEbeB",
+    "COLLECTOR": "0xCe5d9ee4c81f326a04060b5BBF585e8b6e90799e",
+    "FEED": "0x6C0967D6bF313f89F4682A96a68cF124378df238",
+    "SENIOR_OPERATOR": "0x2C9A69269Ef1450635fb9BE0163079738B0DF7e0",
+    "JUNIOR_TRANCHE": "0xf0EF05D5eB1df1A6c5Db6d7024252b63D1151430",
+    "SENIOR_TRANCHE": "0x5f4EE980f68a1BFbC2426797f2D8beb44DB47069",
+    "JUNIOR_TOKEN": "0xF201e66867f844d401eB5eF29Dcea98A631e22bd",
+    "SENIOR_TOKEN": "0x7169b95843b2A3055ed6e4Bd52988938fBfb31C8",
+    "JUNIOR_MEMBERLIST": "0xBaA31F45619CA487766FB6e2EBf1022061DF2BD9",
+    "SENIOR_MEMBERLIST": "0x0bE7710235b7B2F772322Ee886015480F3E856F8",
+    "ASSESSOR": "0xfdaf4E90858c510318e4bcc26A2386e0Abb38358",
+    "ASSESSOR_ADMIN": "0x920db43Ea794AeD627C902Dd475AB5C4C0F49142",
+    "COORDINATOR": "0x5a16882e1705A383bB6898e7adC348716C533C82",
+    "RESERVE": "0x4Fa72C356A18dD086f63C7205EeA7CB1CAE3cd1A",
+    "GOVERNANCE": "0x0A735602a357802f553113F5831FE2fbf2F0E2e0",
+    "ACTIONS": "0x60cc4a2868559e513112f0742e6f546d339ea17b",
+    "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c",
+    "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b"
+  },
+  "metadata": {
+    "name": "Pezesha Series 1",
+    "shortName": "Pezesha 1",
+    "slug": "Pezesha-1",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/pezesha/logo.jpg",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/pezesha/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/pezesha/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/pezesha/tin.svg"
+    },
+    "description": "Pezesha partners with suppliers to provide small merchants underserved by traditional lenders access to high-quality and low-risk financing. Pezesha leverages the supplier transaction history to identify good borrowers, and it integrates into the supplier interface via APIs to provide merchants a loan at the time of ordering to achieve high conversion, and disburses and collects repayment via digital channels, such as mobile money. Pezesha partners have tens of thousands of merchants in Kenya and Ghana. This pool will consist of a portfolio of securitized merchant financings with a maturity of six months. The assets are issued by 1754 Factory LLC Series 2 managed by Davoa Capital.",
+    "website": "https://pezesha.com/",
+    "assetMaturity": "180 days",
+    "attributes": {
+      "Issuer": "1754 Series 2 LLC",
+      "Links": {
+        "Website": "https://pezesha.com/"
+      }
+    },
+    "asset": "Embedded Supply Chain Financing",
+    "currencySymbol": "wCUSD"
+  }
+}
