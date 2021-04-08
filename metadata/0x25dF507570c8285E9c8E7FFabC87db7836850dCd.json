@@ -24,8 +24,8 @@
     "ACTIONS": "0x60cc4a2868559e513112f0742e6f546d339ea17b",
     "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c",
     "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b",
-    "MAKER_CLERK": "0xE3F80411CD0Dd02Def6AF3041DA4c6f9b87BA1D8",
-    "MAKER_MGR": "0x65242F75e6cCBF973b15d483dD5F555d13955A1e"
+    "CLERK": "0xeb236f629725b17C98b6CB93558637085bBD93FE",
+    "MCD_VAT": "0xbA987bDB501d131f766fEe8180Da5d81b34b69d9"
   },
   "metadata": {
     "name": "New Silver Series 2",
@@ -42,6 +42,9 @@
     "attributes": {
       "Issuer": "NS Pool LLC"
     },
-    "currencySymbol": "DAI"
+    "currencySymbol": "KDAI",
+    "maker": {
+      "ilk": "NS2DRP-A"
+    }
   }
 }
