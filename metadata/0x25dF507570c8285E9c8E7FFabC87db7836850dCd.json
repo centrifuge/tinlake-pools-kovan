@@ -12,20 +12,22 @@
     "JUNIOR_OPERATOR": "0xB670e72ADA3614f12B71eedbf933651481Bb7c57",
     "SENIOR_OPERATOR": "0x6B902D49580320779262505e346E3f9B986e99e8",
     "JUNIOR_TRANCHE": "0x4F56924037A6Daa5C0D0F766691a5a00d37e0Be6",
-    "SENIOR_TRANCHE": "0xDF0c780Ae58cD067ce10E0D7cdB49e92EEe716d9",
+    "SENIOR_TRANCHE": "0xE1df53E09E73316c8F224e0Db1942529c0d68245",
     "JUNIOR_TOKEN": "0x9ab90E24326DC5fFEE5E1DfBE9Dc6C54C9130Bea",
     "SENIOR_TOKEN": "0x352Fee834a14800739DC72B219572d18618D9846",
     "JUNIOR_MEMBERLIST": "0xC797940097eaDBE0cEF0657119Dc2524710a74E7",
     "SENIOR_MEMBERLIST": "0xD927F069faf59eD83A1072624Eeb794235bBA652",
-    "ASSESSOR": "0x49527a20904aF41d1cbFc0ba77576B9FBd8ec9E5",
+    "ASSESSOR": "0x2B1b54ab4E6F1d0f3349750a5e7b837F9Cb80cEB",
     "ASSESSOR_ADMIN": "0x105e88eFF33a7d57aa682b6E74E7DA03e2f7582B",
-    "COORDINATOR": "0xB51D3cbaa5CCeEf896B96091E69be48bCbDE8367",
-    "RESERVE": "0xc264eCc07728d43cdA564154c2638D3da110D4DD",
+    "COORDINATOR": "0x2862f673Bd4eFCa828fb30090287B52eB1573aC3",
+    "RESERVE": "0xaAf1e5d73Ae4d9Ac2B36fA1ae9898CFeECef1F79",
     "ACTIONS": "0x60cc4a2868559e513112f0742e6f546d339ea17b",
     "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c",
     "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b",
-    "MAKER_CLERK": "0xE3F80411CD0Dd02Def6AF3041DA4c6f9b87BA1D8",
-    "MAKER_MGR": "0x65242F75e6cCBF973b15d483dD5F555d13955A1e"
+    "CLERK": "0x2DFab9622aE0C06a783915b3C692848b0bCF3089",
+    "POOL_ADMIN": "0xE3A882A6CF4618abe085713C8213c4841D1a4812",
+    "MCD_VAT": "0xbA987bDB501d131f766fEe8180Da5d81b34b69d9",
+    "MCD_JUG": "0xcbB7718c9F39d05aEEDE1c472ca8Bf804b2f1EaD"
   },
   "metadata": {
     "name": "New Silver Series 2",
@@ -40,8 +42,19 @@
     "asset": "Real Estate Bridge Loans",
     "assetMaturity": "12 to 24 months",
     "attributes": {
-      "Issuer": "NS Pool LLC"
+      "Issuer": "NS Pool LLC",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/NS2.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-new-silver/401",
+        "Website": "https://newsilver.com/"
+      },
+      "Maker": {
+        "Risk Assessment": "https://forum.makerdao.com/t/ns-drop-collateral-onboarding-risk-evaluation/5418"
+      }
     },
-    "currencySymbol": "DAI"
+    "currencySymbol": "DAI",
+    "maker": {
+      "ilk": "NS2DRP-A"
+    }
   }
 }
