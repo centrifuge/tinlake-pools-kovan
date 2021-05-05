@@ -34,7 +34,7 @@
     },
     "website": "https://tinlake.centrifuge.io/",
     "email": "tinlake@centrifuge.io",
-    "asset": "Invoice",
+    "asset": "Invoices",
     "assetMaturity": "30 days",
     "attributes": {
       "Issuer": "Kovan LLC (Series 1)"

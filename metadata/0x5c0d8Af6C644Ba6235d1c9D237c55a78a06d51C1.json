@@ -1,0 +1,44 @@
+{
+  "network": "kovan",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x5c0d8Af6C644Ba6235d1c9D237c55a78a06d51C1",
+    "TINLAKE_CURRENCY": "0x0ADB6a2BC09B4CF0b3B0AC55560Ce26588562070",
+    "TITLE": "0xF24152b6041C359f42cB38f16eaBC41Cf7334E77",
+    "PILE": "0x540115B4977DE055729DB522D43cb23097168d6a",
+    "SHELF": "0x0e66690dd9813612d6C4311a81b0D19221af5b51",
+    "COLLECTOR": "0x9f6fc37E4F8566818A3F090dEe0612f610fe5764",
+    "FEED": "0x6B5e33523C240fCCFA36a66e3B663C0daC791985",
+    "JUNIOR_OPERATOR": "0x2cF23857a9a50421407A7a1E128978358B8D3b28",
+    "SENIOR_OPERATOR": "0xefB531D818C424B948225Ce752785b86f3287BC5",
+    "JUNIOR_TRANCHE": "0x26eAC2b3A628a20b7b8Ade905c605f1aF6b3eE5b",
+    "SENIOR_TRANCHE": "0xDf8AB1a12A9C448e970b75634FD7B8368D485d68",
+    "JUNIOR_TOKEN": "0x89c6d9732E6bE964E3F057FaF3dC52c41C7B3789",
+    "SENIOR_TOKEN": "0xADb77eD2Cd8eE63Cd702ff53082AadA90Ba0AdE7",
+    "JUNIOR_MEMBERLIST": "0x7CAb988dE458fEc7f712719999B0b7F73406dbB7",
+    "SENIOR_MEMBERLIST": "0x54a57C3c324db3c9050f398F195082c2EAD16878",
+    "ASSESSOR": "0xAA9Fcd21afddf380533482eBBCA5995c0CD353d3",
+    "COORDINATOR": "0x820dDFd10947E68F5210af5f42847e8Ba478D976",
+    "RESERVE": "0xe96A14E03a8aF5a5C65a89915985856068E090ca",
+    "ACTIONS": "0x76B50bC5645f2347F88736BA1910aACA84ec793E",
+    "POOL_ADMIN": "0x5b34bfc092CC8505C635122aFc3AaD8772842FfF",
+    "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c",
+    "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b"
+  },
+  "metadata": {
+    "name": "Kovan Revolving Pool 4",
+    "slug": "kovan-revolving-pool-4",
+    "description": "This section displays information provided by the Asset Originator, such as a description of the business model.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/tinlake.png"
+    },
+    "website": "https://tinlake.centrifuge.io/",
+    "email": "tinlake@centrifuge.io",
+    "asset": "Invoices",
+    "assetMaturity": "30 days",
+    "attributes": {
+      "Issuer": "Kovan LLC (Series 1)"
+    },
+    "currencySymbol": "DAI"
+  }
+}
