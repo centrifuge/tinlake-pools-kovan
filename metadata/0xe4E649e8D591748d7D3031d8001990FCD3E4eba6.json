@@ -51,6 +51,9 @@
         "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-harbor-trade-credit/141",
         "Website": "https://harbortradecredit.com/"
       }
+    },
+    "maker": {
+      "ilk": "RWA004-A"
     }
   }
 }

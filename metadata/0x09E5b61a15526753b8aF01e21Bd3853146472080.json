@@ -32,14 +32,17 @@
     "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b"
   },
   "metadata": {
-    "name": "Peoples Company (AEA Series 1)",
-    "shortName": "Peoples Company 1",
-    "slug": "peoples-1",
+    "name": "Alternative Equity Advisors Series 1",
+    "shortName": "Alternative Equity Advisors 1",
+    "slug": "aea-1",
     "description": "Peoples Company is one of the nation’s leading providers of farmland sales and auctions, land brokerage, farm land management, land appraisal, land investment services, and farmland real estate.",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/tinlake.png"
     },
-    "asset": "US Farmland",
-    "assetMaturity": "5 years"
+    "asset": "US Agricultural Real Estate",
+    "assetMaturity": "2 to 5 years",
+    "maker": {
+      "ilk": "RWA006-A"
+    }
   }
 }
