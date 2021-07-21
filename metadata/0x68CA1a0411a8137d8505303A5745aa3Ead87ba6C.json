@@ -51,6 +51,9 @@
         "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-fortunafi/394",
         "Website": "https://www.fortunafi.com/"
       }
+    },
+    "maker": {
+      "ilk": "RWA005-A"
     }
   }
 }

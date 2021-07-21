@@ -51,6 +51,9 @@
         "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-consolfreight/333",
         "Website": "https://www.consolfreight.io/"
       }
+    },
+    "maker": {
+      "ilk": "RWA003-A"
     }
   }
 }
