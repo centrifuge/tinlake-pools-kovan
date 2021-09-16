@@ -1,0 +1,52 @@
+{
+  "network": "kovan",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x91df48f15dCC17A264968Eb498A6bf5df1792a79",
+    "TINLAKE_CURRENCY": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+    "TITLE": "0xBd4154E510c33f192db929cD77CD7d427906D4E3",
+    "PILE": "0xD5aE1635BB5B3bB6fa98FF9838Ac517491A3F410",
+    "SHELF": "0x63Ec8A5a42c8Bcf2e4cd0F17aCC44815694B95f2",
+    "FEED": "0xE00915F156148ab70028e0417B9A177a12162836",
+    "JUNIOR_OPERATOR": "0xFEB1dCA60B97d3d49569972e87265F42B0DD69ce",
+    "SENIOR_OPERATOR": "0x287861EdD1E8472F4Ac28AEb3B7EE506Cb814f49",
+    "JUNIOR_TRANCHE": "0x33b7cD6e4E3dA1F9FaD0ff10f248017B74DEd403",
+    "SENIOR_TRANCHE": "0x7dfDe81DC148bEC7fCE7c268F38A4944708A1a06",
+    "JUNIOR_TOKEN": "0x337246AD4Ba442179a73A8FA77a0A0759DB06AA4",
+    "SENIOR_TOKEN": "0x47edDFFC47ceb851473433993D799f22f6271C01",
+    "JUNIOR_MEMBERLIST": "0xacDBfC1EeD14eb56448F6dCC55d20f2fd6006153",
+    "SENIOR_MEMBERLIST": "0x1e166aDab2b6bC7be8b5F757809dB769678B4183",
+    "ASSESSOR": "0xb82EA6eaee13E700e9450e4b658DCCCdE861E626",
+    "POOL_ADMIN": "0x8e1703906510d8F34F020020C318BF5c309df65A",
+    "COORDINATOR": "0x78BA465346AF58d1d4FF0e93a2ebC8F01a1567D3",
+    "RESERVE": "0xA512520963c107AA2A570a242a92B3e5F837738a",
+    "MEMBER_ADMIN": "0x4a4bc793359ea3d16863731a93d06c4648fb9508",
+    "MAKER_MGR": "0xEe1fA05c1123D2DA11c28D0c9757a2B1fc86aA9e",
+    "MKR_VAT": "0xbA987bDB501d131f766fEe8180Da5d81b34b69d9",
+    "MKR_JUG": "0xcbB7718c9F39d05aEEDE1c472ca8Bf804b2f1EaD",
+    "CLERK": "0x5815d849a52091961707cb3F5BF68dD7Dd2F71f0",
+    "ACTIONS": "0x76B50bC5645f2347F88736BA1910aACA84ec793E",
+    "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c",
+    "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b"
+  },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
+  "metadata": {
+    "name": "Tinlake 3.5.0-rc1 Test",
+    "shortName": "Tinlake 3.5.0-rc1 Test",
+    "slug": "tinlake-35-rc1",
+    "description": "Testing the latest release of Tinlake.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/tinlake.png"
+    },
+    "website": "https://tinlake.centrifuge.io/",
+    "email": "tinlake@centrifuge.io",
+    "asset": "Invoices",
+    "assetMaturity": "30 days",
+    "attributes": {
+      "Issuer": "Kovan LLC (Series 1)"
+    }
+  }
+}
