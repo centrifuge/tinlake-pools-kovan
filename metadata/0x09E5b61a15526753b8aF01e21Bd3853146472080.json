@@ -24,22 +24,25 @@
     "POOL_ADMIN": "0x47B59f31A5F49e79D84eD53FC3864BD2346f524f",
     "MEMBER_ADMIN": "0x4a4bc793359ea3d16863731a93d06c4648fb9508",
     "MAKER_MGR": "0x652A3B3b91459504A8D1d785B0c923A34D638218",
-    "MKR_VAT": "0xbA987bDB501d131f766fEe8180Da5d81b34b69d9",
-    "MKR_JUG": "0xcbB7718c9F39d05aEEDE1c472ca8Bf804b2f1EaD",
+    "MCD_VAT": "0xbA987bDB501d131f766fEe8180Da5d81b34b69d9",
+    "MCD_JUG": "0xcbB7718c9F39d05aEEDE1c472ca8Bf804b2f1EaD",
     "CLERK": "0xEc8FF575e916e95188547DFB346d9d5fDa97453b",
     "ACTIONS": "0x76B50bC5645f2347F88736BA1910aACA84ec793E",
     "PROXY_REGISTRY": "0xb0cd959bbbe799ba7d18c7d28008553a7b47a04c",
     "CLAIM_RAD": "0x297237e17F327f8e5C8dEd78b15761A7D513353b"
   },
   "metadata": {
-    "name": "Peoples Company (AEA Series 1)",
-    "shortName": "Peoples Company 1",
-    "slug": "peoples-1",
+    "name": "Alternative Equity Advisors Series 1",
+    "shortName": "Alternative Equity Advisors 1",
+    "slug": "aea-1",
     "description": "Peoples Company is one of the nation’s leading providers of farmland sales and auctions, land brokerage, farm land management, land appraisal, land investment services, and farmland real estate.",
     "media": {
       "logo": "https://storage.googleapis.com/tinlake/tinlake.png"
     },
-    "asset": "US Farmland",
-    "assetMaturity": "5 years"
+    "asset": "US Agricultural Real Estate",
+    "assetMaturity": "2 to 5 years",
+    "maker": {
+      "ilk": "RWA006-A"
+    }
   }
 }
